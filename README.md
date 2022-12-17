@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi 👋, 
+I'm Tej Patel, I'm a software engineer working on frontend technologies
+
+- 💼 I'm currently working at **Mosaic Wellness**
+- 🔭 I’m currently working on Everything Web
+- 🌱 I’m currently learning GraphQL
+- 📨 Reach me at tejp2nd@gmail.com
+
+## Find me around the Web 🕸
+
+<a target="__blank" href="https://twitter.com/tejpatel_me">Twitter</a> | <a target="__blank" href="www.linkedin.com/in/tejpatelme">LinkedIn</a>
+
+
+> Sic Mundus Creatus Est ♾
 
 <!--
 **tejpatelme/tejpatelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
