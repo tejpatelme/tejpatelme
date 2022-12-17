@@ -8,7 +8,7 @@ I'm Tej Patel, I'm a software engineer working on frontend technologies
 
 ## Find me around the Web 🕸
 
-<a target="__blank" href="https://twitter.com/tejpatel_me">Twitter</a> | <a target="__blank" href="www.linkedin.com/in/tejpatelme">LinkedIn</a>
+<a target="__blank" href="https://twitter.com/tejpatel_me">Twitter</a> | <a target="__blank" href="https://linkedin.com/in/tejpatelme">LinkedIn</a>
 
 
 > Sic Mundus Creatus Est ♾
