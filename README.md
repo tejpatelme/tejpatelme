@@ -1,10 +1,9 @@
 ## Hi 👋, 
-I'm Tej Patel, I'm a software engineer working on frontend technologies
+I'm Tej Patel, I'm a software engineer
 
 - 💼 I'm currently working at **Mosaic Wellness**
-- 🔭 I’m currently working on Everything Web
-- 🌱 I’m currently learning GraphQL
-- 📨 Reach me at tejp2nd@gmail.com
+- 🔭 Currently working on apps and websites using React based stacks
+- 📨 Reach me at pateltej.me@gmail.com
 
 ## Find me around the Web 🕸
 
