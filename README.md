@@ -2,7 +2,7 @@
 I'm Tej Patel, I'm a software engineer
 
 - 💼 I'm currently working at **Mosaic Wellness**
-- 🔭 Currently working on apps and websites using React based stacks
+- 🔭 Dabbling in apps and websites using React-based stacks
 - 📨 Reach me at pateltej.me@gmail.com
 
 ## Find me around the Web 🕸
